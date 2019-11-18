@@ -4,13 +4,13 @@ In SQL and Python, query data from Lahman's Baseball Database, create visualizat
 
 # Description
 
-This notebook discusses questions and features visualizations regarding
+[This notebook](https://github.com/nathanjchan/baseball-payrolls/blob/master/baseball_payrolls.ipynb) discusses questions and features visualizations regarding
 - baseball teams with the highest payrolls,
 - payroll trends over time,
 - how team payrolls compare, and
 - the relationship between payroll with performance, win-rate, and home game attendance.
 
-This assignment were done in Statistics 14BA under Professor Ulle at UC Davis.
+This assignment were done in Statistics 141B under Professor Ulle at UC Davis.
 
 # Data Documentation
 
