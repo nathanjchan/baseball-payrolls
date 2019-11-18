@@ -1,10 +1,10 @@
 # Querying and Analyzing Baseball Payrolls
 
-In SQL and Python, query data from Lahman's Baseball Database, create visualizations in Python, and analyze the data. Used numpy, pandas, seaborn, and matplotlib for Python. Found that payroll increases as performance, win-rate, and home game attendance increases. Important for teams to understand relationship between variables.
+In SQL and Python, query data from Lahman's Baseball Database, create visualizations in Python, and analyze the data. Used numpy, pandas, seaborn, and matplotlib for Python. Found that payroll increases as performance, win-rate, and home game attendance increases. Important for teams to understand relationship between payroll and team success.
 
 # Description
 
-This notebook discusses questions and feature visualizations regarding
+This notebook discusses questions and features visualizations regarding
 - baseball teams with the highest payrolls,
 - payroll trends over time,
 - how team payrolls compare, and
